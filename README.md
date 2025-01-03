@@ -1,1 +1,13 @@
-# ADVANCE_TASK3
+NAME: SUJAL JAIN
+
+COMPANY: CODTECH IT SOLUTIONS
+
+ID: CT08DS422
+
+DOMAIN: PYTHON PROGRAMMING
+
+DURATION: DEC 2024 TO JAN 2025
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/e6cf2f0f-7eb5-45bf-afdc-d14e7b0bec83)
